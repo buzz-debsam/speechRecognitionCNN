@@ -10,7 +10,7 @@ In the SRUsingMFCC folder you can find the code for speech recognition using MFC
 
 In the SRUsingSpectrograms folder you can find the code for speech recognition using spectrograms. The data is first converted into spectrograms of size 128X32 and fed into the input layer of a deep CNN. Model was trained for 5 Epochs. Use the necessary lines only, because some lines are not in order. 
 
-# Most of the code in this can be found all over the internet, as we were beginners in this domain and were trying to figure out how things work by manipulating and tuning few variables here and there. 
+# Most of the code in this repo can be found all over the internet, as we were beginners in this domain and were trying to figure out how things work out by manipulating and tuning few variables here and there. 
 
 Due Credits: 
 1. https://github.com/cmaroti/speech_recognition
