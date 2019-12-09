@@ -9,6 +9,13 @@ In the SRUsingMFCC folder you can find the code for speech recognition using MFC
 4. Support Vector Machine
 
 In the SRUsingSpectrograms folder you can find the code for speech recognition using spectrograms. The data is first converted into spectrograms of size 128X32 and fed into the input layer of a deep CNN. Model was trained for 5 Epochs. Use the necessary lines only, because some lines are not in order. 
+Classification has been done using 4 classifiers. 
+1. General softmax layer
+2. K-nearest Neighbour
+3. Random Forest Classifier
+4. Support Vector Machine
+
+Next up, we're working on attention based models and autoencoders for feature extraction process. I shall keep this repo updated with all the future works.
 
 # Most of the code in this repo can be found all over the internet, as we were beginners in this domain and were trying to figure out how things work out by manipulating and tuning few variables here and there. 
 
